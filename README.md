@@ -7,16 +7,13 @@
 ![Healthcare AI](https://img.shields.io/badge/Application-Healthcare%20AI-orange)
 
 🧠 From gait and EMG to fall risk and prodromal detection bridging clinics and code
-
 🎯 Helping clinicians and researchers unlock insights from biomedical data using AI, XAI & Generative Models  
-
-🌍 [Visit my consulting site](https://dantetrb.github.io/ai-consulting/) | 🧠 [Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it) | 📂 [Curriculum Vitae](#)
 
 ---
 
 ## 🌐 Online Profiles
 
-[🌍 Website](https://dantetrb.github.io/ai-consulting/) | [📖 Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it) | [📊 GitHub Projects](https://github.com/DanteTrb?tab=repositories)
+[🌍 Linkedin](https://www.linkedin.com/in/dante-trabassi-663b3718b/) | [🎯 Website](https://dantetrb.github.io/ai-consulting/) | [📖 Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it) | [📊 GitHub Projects](https://github.com/DanteTrb?tab=repositories)
 
 ---
 
@@ -40,8 +37,10 @@
 
 ## 📘 Academic Contributions
 
+- 📰 *Machine Learning Approach to Support the Detection of Parkinson's Disease via IMU Gait AnalysisI*  
+  Published in *Sensors (2022)* – 100 citations  
 - 📰 *Optimizing Rare Disease Gait Classification through Data Balancing and Generative AI*  
-  Published in *Sensors (2024)* – 17+ citations  
+  Published in *Sensors (2024)* – 18+ citations  
 - 🧠 *Muscle Determinants of Spastic Gait in Hereditary Spastic Paraparesis*  
   Explainable deep learning for EMG in HSP – Under review
 
@@ -64,7 +63,7 @@ I support:
 - Research centers looking for interpretable and publishable ML pipelines  
 - Biotech / digital health companies in need of end-to-end ML solutions
 
-📩 Contact via my website → [https://dantetrb.github.io/ai-consulting/](https://dantetrb.github.io/ai-consulting/)
+📩 Email → dantetrb@gmail.com
 
 ---
 
@@ -73,4 +72,4 @@ I support:
 I'm an AI researcher and consultant working at the intersection of **biomedical data**, **explainability**, and **rare disease modeling**.  
 My work spans from gait analysis in Parkinson and HSP to web-based applications for clinical decision support, combining **interpretable AI**, **deep learning**, and **generative techniques** for low-resource datasets.
 
-Let’s build AI tools that clinicians can actually understand and use.
+Let’s build AI tools that clinicians can actually understand and use!
