@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dante Trabassi (@DanteTrb)
+# Dante Trabassi — AI/ML Healthcare Engineer
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
 ![ML Project](https://img.shields.io/badge/Focus-Machine%20Learning-yellowgreen)
@@ -6,51 +6,71 @@
 ![Biomechanics](https://img.shields.io/badge/Domain-Biomechanics-blueviolet)
 ![Healthcare AI](https://img.shields.io/badge/Application-Healthcare%20AI-orange)
 
+🧠 From gait and EMG to fall risk and prodromal detection — bridging clinics and code
 
-🎯 AI & ML Scientist | AI in Clinical Motion Analysis | PhD Neuroscience | xAI Models
+🎯 Helping clinicians and researchers unlock insights from biomedical data using AI, XAI & Generative Models  
 
----
-
-## 🧠 About Me
-I'm passionate about applying **Machine Learning** and **Deep Learning** to real-world challenges — especially in **clinical biomechanics**, **wearable sensor data**, and **neurodegenerative disorders**.
-
-- 🔬 Currently researching **statistical learning**, **generative models**, and **explainable AI (XAI)**.
-- 📊 Specialized in **motion analysis**, **EMG signal processing**, and **gait pattern classification**.
-- 🤝 Looking to collaborate on applied ML projects in healthcare, neuroscience, and engineering.
+🌍 [Visit my consulting site](https://dantetrb.github.io/ai-consulting/) | 🧠 [Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it) | 📂 [Curriculum Vitae](#)
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Online Profiles
 
-- 🔬 [Fall Risk Predictor](https://github.com/DanteTrb/fall-risk-predictor)  
-  AI-powered webapp to assess fall risk in Parkinson's patients using explainable ML.
-
-- 🧠 [Prodromal Parkinson](https://github.com/DanteTrb/Prodromal_Parkinson)  
-  Gait-based model for prodromal pattern recognition using SHAP and generative balancing.
-
-- 🏥 [Rehab Intelligence](https://github.com/DanteTrb/rehab-intelligence)  
-  Multi-module ML system for outcome prediction, length of stay, and patient clustering.
-
-- 🎾 [Sinner vs Alcaraz Forecast](https://github.com/DanteTrb/Alcaraz-vs-Sinner-Next_goat)  
-  Long-term forecast model for ATP dominance using ensemble learning.
+[🌍 Website](https://dantetrb.github.io/ai-consulting/) | [📖 Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it) | [📊 GitHub Projects](https://github.com/DanteTrb?tab=repositories)
 
 ---
 
-## 🧰 Tech & Tools I Use
-- Python, Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow
-- Streamlit, Plotly, Matplotlib, Seaborn
-- SQL / NoSQL, Git, Jupyter, Visual Studio Code
-- Experience with biomechanical datasets, wearable IMUs, and clinical trial design
+## 🚀 Featured GitHub Repositories
+
+- [**Prodromal_Parkinson_XAI**](https://github.com/DanteTrb/Prodromal_Parkinson_XAI) – Predictive modeling and SHAP explainability for Parkinson prodrome detection from IMU data  
+- [**EMG_HSP_XAI**](https://github.com/DanteTrb/EMG_HSP_XAI) – Deep learning + SHAP on EMG signals to identify muscle drivers in spastic gait (HSP disorder)  
+- [**FallRiskPredictor**](https://github.com/DanteTrb/FallRiskPredictor) – Explainable Streamlit webapp to estimate fall risk in neurological patients  
 
 ---
 
-## 📬 How to Reach Me
-- 📧 Email: [dantetrb@gmail.com](mailto:dantetrb@gmail.com)  
-- 🔗 ResearchGate: [researchgate.net/profile/Dante-Trabassi](https://www.researchgate.net/profile/Dante-Trabassi)  
-- 🧪 GitHub Projects: Check out my latest apps and ML pipelines.
+## 🧪 Clinical & Research Use Cases
+
+- **Fall risk prediction** with XAI for Parkinson’s patients  
+- **Prodromal signature discovery** using SHAPSetPlot on wearable data  
+- **Muscle importance analysis** for rare disorders via BiLSTM + CNN on EMG  
+- **Synthetic data generation** (ctGAN) for class balancing in clinical datasets  
+- **Patient clustering** using unsupervised learning + radar profiling in rehabilitation units
 
 ---
 
-## 🚀 Fun Fact
-I believe in making **AI tools interpretable and actionable** — especially for clinicians and healthcare teams.  
-Let’s bring human-centered machine learning into the clinic!
+## 📘 Academic Contributions
+
+- 📰 *Optimizing Rare Disease Gait Classification through Data Balancing and Generative AI*  
+  Published in *Sensors (2024)* – 17+ citations  
+- 🧠 *Muscle Determinants of Spastic Gait in Hereditary Spastic Paraparesis*  
+  Explainable deep learning for EMG in HSP – Under review
+
+> Explore all publications on [Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it)
+
+---
+
+## 🛠 Stack & Tools
+
+`Python` `PyTorch` `scikit-learn` `SHAP` `Streamlit` `ctGAN`  
+`Docker` `PostgreSQL` `FastAPI` `XGBoost` `LightGBM`  
+`Pandas` `NumPy` `Matplotlib` `Plotly` `SHAPSetPlot`
+
+---
+
+## 💼 Consulting & Collaboration
+
+I support:
+- Clinicians who want to bring AI to their data without writing code  
+- Research centers looking for interpretable and publishable ML pipelines  
+- Biotech / digital health companies in need of end-to-end ML solutions
+
+📩 Contact via my website → [https://dantetrb.github.io/ai-consulting/](https://dantetrb.github.io/ai-consulting/)
+
+---
+
+## 📌 Summary
+
+I'm an AI researcher and consultant working at the intersection of **biomedical data**, **explainability**, and **rare disease modeling**.  
+My work spans from gait analysis in Parkinson and HSP to web-based applications for clinical decision support, combining **interpretable AI**, **deep learning**, and **generative techniques** for low-resource datasets.
+
+Let’s build AI tools that clinicians can actually understand and use.
