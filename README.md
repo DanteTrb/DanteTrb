@@ -6,7 +6,7 @@
 ![Biomechanics](https://img.shields.io/badge/Domain-Biomechanics-blueviolet)
 ![Healthcare AI](https://img.shields.io/badge/Application-Healthcare%20AI-orange)
 
-🧠 From gait and EMG to fall risk and prodromal detection — bridging clinics and code
+🧠 From gait and EMG to fall risk and prodromal detection bridging clinics and code
 
 🎯 Helping clinicians and researchers unlock insights from biomedical data using AI, XAI & Generative Models  
 
