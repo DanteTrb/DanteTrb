@@ -64,12 +64,3 @@ I support:
 - Biotech / digital health companies in need of end-to-end ML solutions
 
 📩 Email → dantetrb@gmail.com
-
----
-
-## 📌 Summary
-
-I'm an AI researcher and consultant working at the intersection of **biomedical data**, **explainability**, and **rare disease modeling**.  
-My work spans from gait analysis in Parkinson and HSP to web-based applications for clinical decision support, combining **interpretable AI**, **deep learning**, and **generative techniques** for low-resource datasets.
-
-Let’s build AI tools that clinicians can actually understand and use!
