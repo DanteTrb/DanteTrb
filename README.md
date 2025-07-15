@@ -6,8 +6,6 @@
 ![Biomechanics](https://img.shields.io/badge/Domain-Biomechanics-blueviolet)
 ![Healthcare AI](https://img.shields.io/badge/Application-Healthcare%20AI-orange)
 
-🧠 From gait and EMG to fall risk and prodromal detection bridging clinics and code
-
 🎯 Helping clinicians and researchers unlock insights from biomedical data using AI, XAI & Generative Models  
 
 ---
@@ -42,8 +40,6 @@
   Published in *Sensors (2022)* – 100 citations  
 - 📰 *Optimizing Rare Disease Gait Classification through Data Balancing and Generative AI*  
   Published in *Sensors (2024)* – 18+ citations  
-- 🧠 *Muscle Determinants of Spastic Gait in Hereditary Spastic Paraparesis*  
-  Explainable deep learning for EMG in HSP – Under review
 
 > Explore all publications on [Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it)
 
