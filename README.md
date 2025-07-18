@@ -6,7 +6,7 @@
 ![Biomechanics](https://img.shields.io/badge/Domain-Biomechanics-blueviolet)
 ![Healthcare AI](https://img.shields.io/badge/Application-Healthcare%20AI-orange)
 
-🎯 Helping clinicians and researchers unlock insights from biomedical data using AI, XAI & Generative Models  
+🎯 Helping clinicians and researchers unlock insights from biomedical data using AI, XAI & Generative Approches 
 
 ---
 
