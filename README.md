@@ -30,7 +30,6 @@
 - **Prodromal signature discovery** using SHAPSetPlot on wearable data  
 - **Muscle importance analysis** for rare disorders via BiLSTM + CNN on EMG  
 - **Synthetic data generation** (ctGAN) for class balancing in clinical datasets  
-- **Patient clustering** using unsupervised learning + radar profiling in rehabilitation units
 
 ---
 
@@ -50,6 +49,7 @@
 `Python` `PyTorch` `scikit-learn` `SHAP` `Streamlit` `ctGAN`  
 `Docker` `PostgreSQL` `FastAPI` `XGBoost` `LightGBM`  
 `Pandas` `NumPy` `Matplotlib` `Plotly` `SHAPSetPlot`
+`React` `Django` `Flask` `GenAI` `Clustering`
 
 ---
 
