@@ -23,7 +23,7 @@
 ## 🚀 Featured GitHub Repositories
 
 - [**Prodromal_Parkinson_XAI**](https://github.com/DanteTrb/Prodromal_Parkinson) – Predictive modeling and SHAP explainability for Parkinson prodrome detection from IMU data  
-- [**EMG_HSP_XAI**](https://github.com/DanteTrb/EMG_HSP_XAI) – Deep learning + SHAP on EMG signals to identify muscle drivers in spastic gait (HSP disorder)  
+- [**EMG_HSP_XAI**](https://github.com/DanteTrb/EMG_HSP_analysis) – Deep learning + SHAP on EMG signals to identify muscle drivers in spastic gait (HSP disorder)  
 - [**FallRiskPredictor**](https://github.com/DanteTrb/fall-risk-predictor) – Explainable Streamlit webapp to estimate fall risk in neurological patients  
 
 ---
