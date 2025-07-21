@@ -65,3 +65,7 @@ I support:
 - Biotech / digital health companies in need of end-to-end ML solutions
 
 📩 Email → dantetrb@gmail.com
+
+<h2>🐍 My GitHub Contribution Snake</h2>
+
+<img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/output/github-contribution-grid-snake.svg" alt="snakegit" />
