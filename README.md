@@ -66,7 +66,6 @@ I support:
 
 📩 Email → dantetrb@gmail.com
 
+## 🐍 GitHub Contribution Snake
 
-## 🐍 My GitHub Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/DanteTrb/DanteTrb/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/github-contribution-grid-snake.svg)
