@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/DanteTrb/DanteTrb/blob/main/dante_typing_banner.gif" width="700" alt="Typing GIF"/>
 </p>
-
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
 ![ML Project](https://img.shields.io/badge/Focus-Machine%20Learning-yellowgreen)
 ![xAI](https://img.shields.io/badge/Explainability-xAI-critical)
