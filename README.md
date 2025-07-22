@@ -17,11 +17,9 @@
   <a href="https://www.linkedin.com/in/dante-trabassi-663b3718b/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/OIP-2839505484.jpg" alt="LinkedIn" height="30" style="border: none;" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://dantetrb.github.io/ai-consulting/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/OIP-479386014.jpg" alt="Website" height="30" style="border: none;" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/google-scholar.svg" alt="Google Scholar" height="30" style="border: none;" />
   </a>
