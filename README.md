@@ -58,7 +58,7 @@ I support:
 ---
 
 <p align="center">
-  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/ComicsDT" width="900" alt="Typing GIF"/>
+  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/ComicsDT.png" width="900" alt="Typing PNG"/>
 </p>
 
 ---
