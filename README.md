@@ -57,6 +57,12 @@ I support:
 
 ---
 
+<p align="center">
+  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/ComicsDT" width="900" alt="Typing GIF"/>
+</p>
+
+---
+
 ## 🐍 GitHub Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/github-contribution-grid-snake.svg)
