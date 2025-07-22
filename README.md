@@ -16,7 +16,7 @@
 
 ## 🌐 Online Profiles
 
-[🌍 Linkedin](https://www.linkedin.com/in/dante-trabassi-663b3718b/) | [🎯 Website](https://dantetrb.github.io/ai-consulting/) | [📖 Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it) | [📊 GitHub Projects](https://github.com/DanteTrb?tab=repositories)
+[🌍 Linkedin](https://www.linkedin.com/in/dante-trabassi-663b3718b/) | [🎯 Website](https://dantetrb.github.io/ai-consulting/) | [📊 GitHub Projects](https://github.com/DanteTrb?tab=repositories)
 
 ---
 
