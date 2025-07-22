@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/DTBANNER.gif" width="11000" alt="Typing GIF"/>
+  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/DTml.gif" width="11000" alt="Typing GIF"/>
 </p>
 
 ---
