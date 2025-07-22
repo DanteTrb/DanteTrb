@@ -48,15 +48,6 @@
 
 ---
 
-## 🛠 Stack & Tools
-
-`Python` `PyTorch` `scikit-learn` `SHAP` `Streamlit` `ctGAN`  
-`Docker` `PostgreSQL` `FastAPI` `XGBoost` `LightGBM`  
-`Pandas` `NumPy` `Matplotlib` `Plotly` `SHAPSetPlot`
-`React` `Django` `Flask` `GenAI` `Clustering`
-
----
-
 ## 💼 Consulting & Collaboration
 
 I support:
@@ -64,7 +55,7 @@ I support:
 - Research centers looking for interpretable and publishable ML pipelines  
 - Biotech / digital health companies in need of end-to-end ML solutions
 
-📩 Email → dantetrb@gmail.com
+---
 
 ## 🐍 GitHub Contribution Snake
 
