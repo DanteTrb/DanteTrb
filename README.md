@@ -16,6 +16,13 @@
 
 ## 🌐 Online Profiles
 
+### Connect with me
+<p align="center">
+<a href="https://www.linkedin.com/in/dante-trabassi-663b3718b/" target="blank"><img align="center" src="./assets/OIP-2839505484.jpg" alt="123" height="30" width="-1" /></a>
+<a href="https://dantetrb.github.io/ai-consulting/" target="blank"><img align="center" src="./assets/OIP-479386014.jpg" alt="123" height="30" width="-1" /></a>
+<a href="https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it" target="blank"><img align="center" src="./assets/google-scholar.svg" alt="123" height="30" width="-1" /></a>
+</p>
+
 [🌍 Linkedin](https://www.linkedin.com/in/dante-trabassi-663b3718b/) | [🎯 Website](https://dantetrb.github.io/ai-consulting/) | [📊 GitHub Projects](https://github.com/DanteTrb?tab=repositories)
 
 ---
