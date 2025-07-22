@@ -14,44 +14,20 @@
 
 ---
 
-## 🌐 Online Profiles
-
 ### Connect with me
-<p align="center">
-<a href="https://www.linkedin.com/in/dante-trabassi-663b3718b/" target="blank"><img align="center" src="./assets/OIP-2839505484.jpg" alt="123" height="30" width="-1" /></a>
-<a href="https://dantetrb.github.io/ai-consulting/" target="blank"><img align="center" src="./assets/OIP-479386014.jpg" alt="123" height="30" width="-1" /></a>
-<a href="https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it" target="blank"><img align="center" src="./assets/google-scholar.svg" alt="123" height="30" width="-1" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dante-trabassi-663b3718b/" target="blank">
+    <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/OIP-2839505484.jpg" alt="LinkedIn" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dantetrb.github.io/ai-consulting/" target="blank">
+    <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/OIP-479386014.jpg" alt="Website" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it" target="blank">
+    <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/google-scholar.svg" alt="Google Scholar" height="30" />
+  </a>
 </p>
-
-[🌍 Linkedin](https://www.linkedin.com/in/dante-trabassi-663b3718b/) | [🎯 Website](https://dantetrb.github.io/ai-consulting/) | [📊 GitHub Projects](https://github.com/DanteTrb?tab=repositories)
-
----
-
-## 🚀 Featured GitHub Repositories
-
-- [**Prodromal_Parkinson_XAI**](https://github.com/DanteTrb/Prodromal_Parkinson) – Predictive modeling and SHAP explainability for Parkinson prodrome detection from IMU data  
-- [**EMG_HSP_XAI**](https://github.com/DanteTrb/EMG_HSP_analysis) – Deep learning + SHAP on EMG signals to identify muscle drivers in spastic gait (HSP disorder)  
-- [**FallRiskPredictor**](https://github.com/DanteTrb/fall-risk-predictor) – Explainable Streamlit webapp to estimate fall risk in neurological patients  
-
----
-
-## 🧪 Clinical & Research Use Cases
-
-- **Fall risk prediction** with XAI for Parkinson’s patients  
-- **Prodromal signature discovery** using SHAPSetPlot on wearable data  
-- **Muscle importance analysis** for rare disorders via BiLSTM + CNN on EMG  
-- **Synthetic data generation** (ctGAN) for class balancing in clinical datasets  
-
----
-
-## 📘 Academic Contributions
-
-- 📰 *Machine Learning Approach to Support the Detection of Parkinson's Disease via IMU Gait Analysis*  
-  Published in *Sensors (2022)* – 100+ citations  
-- 📰 *Optimizing Rare Disease Gait Classification through Data Balancing and Generative AI*  
-  Published in *Sensors (2024)* – 20+ citations  
-
-> Explore all publications on [Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it)
 
 ---
 
@@ -61,6 +37,32 @@ I support:
 - Clinicians who want to bring AI to their data without writing code  
 - Research centers looking for interpretable and publishable ML pipelines  
 - Biotech / digital health companies in need of end-to-end ML solutions
+
+---
+
+## Featured GitHub Repositories
+
+- [**Prodromal_Parkinson_XAI**](https://github.com/DanteTrb/Prodromal_Parkinson) – Predictive modeling and SHAP explainability for Parkinson prodrome detection from IMU data  
+- [**EMG_HSP_XAI**](https://github.com/DanteTrb/EMG_HSP_analysis) – Deep learning + SHAP on EMG signals to identify muscle drivers in spastic gait (HSP disorder)  
+- [**FallRiskPredictor**](https://github.com/DanteTrb/fall-risk-predictor) – Explainable Streamlit webapp to estimate fall risk in neurological patients  
+
+---
+
+## Clinical & Research Use Cases
+
+- **Fall risk prediction** with XAI for Parkinson’s patients  
+- **Prodromal signature discovery** using SHAPSetPlot on wearable data  
+- **Muscle importance analysis** for rare disorders via BiLSTM + CNN on EMG  
+- **Synthetic data generation** (ctGAN) for class balancing in clinical datasets  
+
+---
+
+## Academic Contributions
+
+- *Machine Learning Approach to Support the Detection of Parkinson's Disease via IMU Gait Analysis*  
+  Published in *Sensors (2022)* – 100+ citations  
+- *Optimizing Rare Disease Gait Classification through Data Balancing and Generative AI*  
+  Published in *Sensors (2024)* – 20+ citations  
 
 ---
 
