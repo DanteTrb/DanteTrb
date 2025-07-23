@@ -77,7 +77,7 @@ I'm open to research, clinical or AI product collaborations in:
 - Clinical explainability (SHAP / SHAPSetPlot)  
 - Fall prediction systems  
 
-📩 [Let’s connect](mailto:dante.trabassi@uniroma1.it) if you'd like to collaborate!
+📩 [Let’s connect](mailto:dantetrb@gmail.com) if you'd like to collaborate!
 
 ---
 
