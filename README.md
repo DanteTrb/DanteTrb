@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/Magician.gif" width="11000" alt="Typing GIF"/>
+  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/PrincipalBanner.gif" width="11000" alt="Typing GIF"/>
 </p>
 
 ---
@@ -16,12 +16,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dante-trabassi-663b3718b" target="blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/OIP-2839505484.jpg" alt="LinkedIn" height="30" style="border: none;" />
-  </a>
-  
+  </a> 
   <a href="https://dantetrb.github.io/ai-consulting" target="blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/OIP-479386014.jpg" alt="Website" height="30" style="border: none;" />
+    <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/DTwebsite.svg" alt="Website" height="30" style="border: none;" />
   </a>
-  
   <a href="https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it" target="blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/google-scholar.svg" alt="Google Scholar" height="30" style="border: none;" />
   </a>
