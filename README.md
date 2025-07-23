@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/newbanner.gif" width="11000" alt="Typing GIF"/>
+  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/newbanner.gif" width="100%" alt="Typing GIF"/>
+</p>
+
+<p align="center">
+  <em>Enabling clinicians and researchers to translate biomedical data into actionable insight through interpretable and generative AI.</em>
 </p>
 
 ---
@@ -13,15 +17,16 @@
 ---
 
 ### Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/dante-trabassi-663b3718b" target="blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/linkDT.svg" alt="LinkedIn" height="30" style="border: none;" />
-  </a> 
-  <a href="https://dantetrb.github.io/ai-consulting" target="blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/Bannerweb.svg" alt="Website" height="30" style="border: none;" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dante-trabassi-663b3718b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it" target="blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/DanteTrb/DanteTrb/main/google-scholar.svg" alt="Google Scholar" height="30" style="border: none;" />
+  <a href="https://dantetrb.github.io/ai-consulting/">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
   </a>
 </p>
 
@@ -29,14 +34,15 @@
 
 ## 💼 Consulting & Collaboration
 
-I support:
-- Clinicians who want to bring AI to their data without writing code  
-- Research centers looking for interpretable and publishable ML pipelines  
-- Biotech / digital health companies in need of end-to-end ML solutions
+I help clinical and digital health teams to:
+
+- 🔬 Enable clinicians and researchers to apply state-of-the-art AI to biomedical signals through intuitive, no-code interfaces  
+- 🧠 Design interpretable & publishable ML pipelines for translational research  
+- 🚀 Deploy scalable end-to-end solutions in clinical or startup environments
 
 ---
 
-## Featured GitHub Repositories
+## 📌 Featured GitHub Repositories
 
 - [**Prodromal_Parkinson_XAI**](https://github.com/DanteTrb/Prodromal_Parkinson) – Predictive modeling and SHAP explainability for Parkinson prodrome detection from IMU data  
 - [**EMG_HSP_XAI**](https://github.com/DanteTrb/EMG_HSP_analysis) – Deep learning + SHAP on EMG signals to identify muscle drivers in spastic gait (HSP disorder)  
@@ -44,7 +50,7 @@ I support:
 
 ---
 
-## Clinical & Research Use Cases
+## 🔍 Clinical & Research Use Cases
 
 - **Fall risk prediction** with XAI for Parkinson’s patients  
 - **Prodromal signature discovery** using SHAPSetPlot on wearable data  
@@ -53,7 +59,7 @@ I support:
 
 ---
 
-## Academic Contributions
+## 🧪 Academic Contributions
 
 - *Machine Learning Approach to Support the Detection of Parkinson's Disease via IMU Gait Analysis*  
   Published in *Sensors (2022)* – 100+ citations  
@@ -62,8 +68,21 @@ I support:
 
 ---
 
+## 🤝 Open for Collaboration
+
+I'm open to research, clinical or AI product collaborations in:
+
+- Prodromal Parkinson detection  
+- Generative AI for rare disease datasets  
+- Clinical explainability (SHAP / SHAPSetPlot)  
+- Fall prediction systems  
+
+📩 [Let’s connect](mailto:dante.trabassi@uniroma1.it) if you'd like to collaborate!
+
+---
+
 <p align="center">
-  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/ComicsDT.png" width="1100" alt="Typing PNG"/>
+  <img src="https://github.com/DanteTrb/DanteTrb/blob/main/ComicsDT.png" width="1000" alt="Comics"/>
 </p>
 
 ---
