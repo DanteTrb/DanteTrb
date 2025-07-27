@@ -34,7 +34,7 @@
 
 ## 💼 Consulting & Collaboration
 
-I help clinical and digital health teams to:
+I help clinicians researchers & digital health teams to:
 
 - 🔬 Enable clinicians and researchers to apply state-of-the-art AI to biomedical signals through intuitive, no-code interfaces  
 - 🧠 Design interpretable & publishable ML pipelines for translational research  
