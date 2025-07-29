@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>Enabling clinicians and researchers to translate biomedical data into actionable insight through interpretable ML and generative AI.</em>
+  <em>Enabling startup, clinicians and researchers to translate biomedical data into actionable insight through interpretable ML and generative AI.</em>
 </p>
 
 ---
