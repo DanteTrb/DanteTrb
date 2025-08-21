@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Connect with me
+## 🚀 Connect with me!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dante-trabassi-663b3718b/">
@@ -64,7 +64,7 @@ I help clinicians researchers & digital health teams to:
 - *Machine Learning Approach to Support the Detection of Parkinson's Disease via IMU Gait Analysis*  
   Published in *Sensors (2022)* – 100+ citations  
 - *Optimizing Rare Disease Gait Classification through Data Balancing and Generative AI*  
-  Published in *Sensors (2024)* – 20+ citations  
+  Published in *Sensors (2024)* – 30+ citations  
 
 ---
 
