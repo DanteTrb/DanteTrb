@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Connect with me!
+## 🚀 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dante-trabassi-663b3718b/">
