@@ -62,9 +62,9 @@ I help clinicians researchers & digital health teams to:
 ## 🧪 Academic Contributions
 
 - *Machine Learning Approach to Support the Detection of Parkinson's Disease via IMU Gait Analysis*  
-  Published in *Sensors (2022)* – 120+ citations  
+  Published in *Sensors (2022)* – 130+ citations  
 - *Optimizing Rare Disease Gait Classification through Data Balancing and Generative AI*  
-  Published in *Sensors (2024)* – 35+ citations  
+  Published in *Sensors (2024)* – 45+ citations  
 
 ---
 
