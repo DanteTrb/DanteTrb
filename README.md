@@ -66,7 +66,7 @@ I help clinicians researchers & digital health teams to:
 - *Optimizing Rare Disease Gait Classification through Data Balancing and Generative AI*  
   Published in *Sensors (2024)* – 60+ citations
 
--And many others..
+And many others..
 
 ---
 
